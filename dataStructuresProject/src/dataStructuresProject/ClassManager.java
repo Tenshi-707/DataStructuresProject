@@ -12,7 +12,7 @@ public class ClassManager {
 		boolean logged_in = true;
 		
 		// first time logging in message
-		System.out.println("Welcome to Data structurs & Algorithms class manager!");
+		System.out.println("Welcome to Data structures & Algorithms class manager!");
 		//system log in method
 		welcomeMessage();
 		
